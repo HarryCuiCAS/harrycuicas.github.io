@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://harrycuicas.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-06-27T14:33:57.585Z</updated>
+    <title>cuixianghan</title>
+    <updated>2020-06-27T14:38:01.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://harrycuicas.github.io"/>
     <link rel="self" href="https://harrycuicas.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>website  text</subtitle>
     <logo>https://harrycuicas.github.io/images/avatar.png</logo>
     <icon>https://harrycuicas.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, cuixianghan</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://harrycuicas.github.io/post/hello-gridea/</id>
