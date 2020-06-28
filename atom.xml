@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://harrycuicas.github.io</id>
     <title>Cui Xianghan</title>
-    <updated>2020-06-28T00:15:58.440Z</updated>
+    <updated>2020-06-28T00:23:01.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://harrycuicas.github.io"/>
     <link rel="self" href="https://harrycuicas.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://harrycuicas.github.io/images/avatar.png</logo>
     <icon>https://harrycuicas.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Cui Xianghan</rights>
+    <entry>
+        <title type="html"><![CDATA[TEXT]]></title>
+        <id>https://harrycuicas.github.io/post/text/</id>
+        <link href="https://harrycuicas.github.io/post/text/">
+        </link>
+        <updated>2020-06-28T00:22:29.000Z</updated>
+        <content type="html"><![CDATA[<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">Γ</mi></mrow><annotation encoding="application/x-tex">\Gamma
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Γ</span></span></span></span></span></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://harrycuicas.github.io/post/hello-gridea/</id>
