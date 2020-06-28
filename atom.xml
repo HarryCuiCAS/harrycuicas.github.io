@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://harrycuicas.github.io</id>
     <title>Cui Xianghan</title>
-    <updated>2020-06-28T00:29:39.765Z</updated>
+    <updated>2020-06-28T00:57:07.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://harrycuicas.github.io"/>
     <link rel="self" href="https://harrycuicas.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://harrycuicas.github.io/post/1/">
         </link>
         <updated>2020-06-28T00:28:05.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="讨论">讨论</h3>
+        <content type="html"><![CDATA[<!-- more -->
+<h3 id="讨论">讨论</h3>
 <p><strong>张见微</strong></p>
 <p>在不考虑望远镜选择效应时，在100ms左右有明显的分界。从直方图来看，&lt;100ms的分布好像是对数正态分布，所以想用KS和AD检验一下，分别用的python里scipy.stats.ks_2samp(x1,x2)和scipy.stats.anderson(x1, dist='norm')函数。但是KS和AD的结果是矛盾的，是我检验的思路或方法有问题？</p>
 <p><strong>1.K-S</strong></p>
