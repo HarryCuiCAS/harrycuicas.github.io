@@ -4,106 +4,111 @@
     <meta charset="utf-8" >
 
 <title>1 | Cui Xianghan</title>
-<meta name="description" content="website  text">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="shortcut icon" href="https://harrycuicas.github.io/favicon.ico?v=1593309520007">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="shortcut icon" href="https://harrycuicas.github.io/favicon.ico?v=1593309540199">
 <link rel="stylesheet" href="https://harrycuicas.github.io/styles/main.css">
 
 
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
+
+    <meta name="description" content="
+讨论
+张见微
+在不考虑望远镜选择效应时，在100ms左右有明显的分界。从直方图来看，&lt;100ms的分布好像是对数正态分布，所以想用KS和AD检验一下，分别用的python里scipy.stats.ks_2samp(x1,x2)和sc..." />
+    <meta name="keywords" content="" />
   </head>
   <body>
-  
-    <nav class="navbar border fixed split-nav">
-  <div class="nav-brand">
-    <h3><a href="https://harrycuicas.github.io">Cui Xianghan</a></h3>
-  </div>
-  <div class="collapsible">
-    <input id="collapsible1" type="checkbox" name="collapsible1">
-    <button>
-      <label for="collapsible1">
-        <div class="bar1"></div>
-        <div class="bar2"></div>
-        <div class="bar3"></div>
-      </label>
-    </button>
-    <div class="collapsible-body">
-      <ul class="inline">
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://harrycuicas.github.io">
+        <img src="https://harrycuicas.github.io/images/avatar.png?v=1593309540199" class="site-logo">
+        <h1 class="site-title">Cui Xianghan</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
         
-          <li>
-            
-              <a href="https://harrycuicas.github.io" class="menu">
-                首页·Homepage
-              </a>
-            
-          </li>
+          <a href="https://harrycuicas.github.io" class="site-nav">
+            首页·Homepage
+          </a>
         
-          <li>
-            
-              <a href="https://harrycuicas.github.io/archives" class="menu">
-                个人·Personal
-              </a>
-            
-          </li>
+      
         
-          <li>
-            
-              <a href="https://harrycuicas.github.io/research" class="menu">
-                科研·Research
-              </a>
-            
-          </li>
+          <a href="https://harrycuicas.github.io/archives" class="site-nav">
+            个人·Personal
+          </a>
         
-          <li>
-            
-              <a href="/archives" class="menu">
-                生活·Life
-              </a>
-            
-          </li>
+      
         
-          <li>
-            
-              <a href="/tags" class="menu">
-                标签
-              </a>
-            
-          </li>
+          <a href="https://harrycuicas.github.io/research" class="site-nav">
+            科研·Research
+          </a>
         
-          <li>
-            
-              <a href="/post/about" class="menu">
-                关于
-              </a>
-            
-          </li>
+      
         
-      </ul>
+          <a href="/archives" class="site-nav">
+            生活·Life
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
     </div>
   </div>
-</nav>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      website  text
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://harrycuicas.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
-    <div id="top" class="row site">
-      <div class="sm-12 md-8 col">
-        <div class="paper">
-          <article class="article">
-            <h1>1</h1>
-            <p class="article-meta">
-              2020-06-28
-              
-            </p>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">1</h2>
+            <div class="post-date">2020-06-28</div>
             
-            <div class="post-content">
+            <div class="post-content" v-pre>
               <!-- more -->
 <h3 id="讨论">讨论</h3>
 <p><strong>张见微</strong></p>
@@ -125,106 +130,41 @@
 <img src="C:\Users\MSI-PC\AppData\Roaming\Typora\typora-user-images\image-20200627112033686.png" alt="image-20200627112033686" style="zoom:50%;" />
 
             </div>
-          </article>
-        </div>
-        <div class="paper" data-aos="fade-in">
-          
-            <div class="next-post">
-              <div class="next">
-                下一篇
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://harrycuicas.github.io/post/text/">
+                  <h3 class="post-title">
+                    TEXT
+                  </h3>
+                </a>
               </div>
-              <a href="https://harrycuicas.github.io/post/text/">
-                <h3 class="post-title">
-                  TEXT
-                </h3>
-              </a>
-            </div>
-          
+            
+
+            
+
+          </div>
+
         </div>
-        
       </div>
-
-      <div class="sm-12 md-4 col sidebar">
-  <div class="paper info-container">
-    <img src="https://harrycuicas.github.io/images/avatar.png?v=1593309520007" class="no-responsive avatar">
-    <div class="text-muted">website  text</div>
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      最新文章
-    </div>
-    <div class="row">
-      <ul>
-        
-          
-            <li>
-              <a href="https://harrycuicas.github.io/post/1/">1</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://harrycuicas.github.io/post/text/">TEXT</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://harrycuicas.github.io/post/about/">关于</a>
-            </li>
-          
-        
-          
-            <li>
-              <a href="https://harrycuicas.github.io/post/hello-gridea/">Hello Gridea</a>
-            </li>
-          
-        
-      </ul>
-    </div>
-  </div>
-  <div class="paper">
-    <div class="sidebar-title">
-      标签列表
-    </div>
-    <div class="row">
-      
-        <a href="https://harrycuicas.github.io/tag/QZHA6dZgS/" class="badge secondary">
-          Gridea
-        </a>
-      
-    </div>
-  </div>
-  <div class="paper">
-    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://harrycuicas.github.io/atom.xml" target="_blank">RSS</a>
-  </div>
-</div>
-
-
     </div>
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
 <script type="application/javascript">
 
 AOS.init();
 
-hljs.initHighlightingOnLoad()
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
+
+
 
 
 
