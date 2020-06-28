@@ -2,14 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://harrycuicas.github.io</id>
     <title>Cui Xianghan</title>
-    <updated>2020-06-28T13:25:01.804Z</updated>
+    <updated>2020-06-28T13:46:54.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://harrycuicas.github.io"/>
     <link rel="self" href="https://harrycuicas.github.io/atom.xml"/>
-    <subtitle>崔翔翰，1997.09.15. &lt;br/&gt; &lt;br/&gt;
-本科毕业于武汉理工大学，理学院，物理系，光电信息科学与工程专业。&lt;br/&gt;
-研究生就读于中国科学院大学，国家天文台，天体物理专业。&lt;br/&gt;&lt;br/&gt;
-学习-研究方向：脉冲星，快速射电暴</subtitle>
+    <subtitle>Personal Website</subtitle>
     <logo>https://harrycuicas.github.io/images/avatar.png</logo>
     <icon>https://harrycuicas.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Cui Xianghan</rights>
@@ -22,11 +19,11 @@
         <content type="html"><![CDATA[<hr>
 <p>疫情来了，最后一年的集中教学，便这样结束了。</p>
 <p>回想起来，我总共在雁栖湖校区生活和学习了4个多月。这四个多月，是我天体物理专业的开始。天文一直是我的爱好，我本科的时候，总是想以后读研要是能够学天文就好了。没想到，我真考上了国台，这一点我还是挺佩服我的，哈哈哈。好了，不说这些没用的了，下面我想用几张照片来回顾一下雁栖湖的时光。</p>
-<p><img src="https://harrycuicas.github.io/post-images/1593349350297.jpg" alt="" loading="lazy"><br>
-这张照片是使用宾得胶卷相机，ISO200的胶卷，在寝室拍摄的。那是刚开学的一段时间，我十分憧憬未来的学习生活，特别是学习自己喜欢的内容。但同时还有些担心，一来担心是叶公好龙，二来自己能否学得会学的好，也是未知数。我承认，我本科不论是成绩还是课外的科研，做的都不错，但这都是过去的了。曾经听过一句话说，过去越是适应，未来可能越不适应。这正是我担心的。好在，这种担心现在似乎可以打消了。</p>
-<p>位于荒郊野岭、长城脚下的雁栖湖校区，在宿舍窗前，与之作伴的似乎除了黑夜便是星星点点的路灯。我早已不记得拍这张照片时的心情如何，或许仅仅是觉得的这一瞬挺美的。但是用这张照片作为第一幅图，是有其原因的。现在想来，我没有辜负自己对自己的期望，在雁栖湖的一学期，包括疫情在家的这学期，我都是在尽自己最大的可能补齐因跨专业所造成的知识漏洞和思维短板。当然，付出的就是时间和精力。<br>
-<img src="https://harrycuicas.github.io/post-images/1593350391068.jpg" alt="" loading="lazy"><br>
-要说时间流逝最快的一个时段，非清晨莫属，人们也常常说，一天之计在于晨。尽管我这间屋子无缘见到北面山上的长城遗址，但有幸能在冬日迎来第一缕曙光。</p>
+<figure data-type="image" tabindex="1"><img src="https://harrycuicas.github.io/post-images/1593351670520.jpg" alt="" loading="lazy"></figure>
+<p>这张照片是使用宾得胶卷相机，ISO200的胶卷，在寝室拍摄的。那是刚开学的一段时间，我十分憧憬未来的学习生活，特别是学习自己喜欢的内容。但同时还有些担心，一来担心是叶公好龙，二来自己能否学得会学的好，也是未知数。我承认，我本科不论是成绩还是课外的科研，做的都不错，但这都是过去的了。曾经听过一句话说，过去越是适应，未来可能越不适应。这正是我担心的。好在，这种担心现在似乎可以打消了。</p>
+<p>位于荒郊野岭、长城脚下的雁栖湖校区，在宿舍窗前，与之作伴的似乎除了黑夜便是星星点点的路灯。我早已不记得拍这张照片时的心情如何，或许仅仅是觉得的这一瞬挺美的。但是用这张照片作为第一幅图，是有其原因的。现在想来，我没有辜负自己对自己的期望，在雁栖湖的一学期，包括疫情在家的这学期，我都是在尽自己最大的可能补齐因跨专业所造成的知识漏洞和思维短板。当然，付出的就是时间和精力。</p>
+<figure data-type="image" tabindex="2"><img src="https://harrycuicas.github.io/post-images/1593351677085.jpg" alt="" loading="lazy"></figure>
+<p>要说时间流逝最快的一个时段，非清晨莫属，人们也常常说，一天之计在于晨。尽管我这间屋子无缘见到北面山上的长城遗址，但有幸能在冬日迎来第一缕曙光。</p>
 ]]></content>
     </entry>
     <entry>
